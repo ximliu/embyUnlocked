@@ -18,7 +18,7 @@ Emby was free and developed under community, but there is a day they decided to 
 
 Find some where safe to download our git repo
 
-    git clone https://github.com/Co2333/embyUnlocked
+    git clone https://github.com/ximliu/embyUnlocked
     cd embyUnlocked
 
 Modify the docker-compose.yml as you want
